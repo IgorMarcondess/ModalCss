@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital,wght@0,400..700;1,400..700&family=Righteous&display=swap');
+
+@media (min-width: 800px) and (max-width: 1400px){
+.opcoes-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.opcoes-section{
+    margin-bottom: 5%;
+}
+.layout-opcoes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #032D60;
+    border-radius: 10px;
+    width: 35rem;
+    height: 4rem;
+    margin-bottom: 1%;
+    margin-top: 5%;
+    color: white;
+}
+.layout-opcoes:hover{
+    background-color: #032D60;
+    color: white;
+}
+.layout-opcoes:visited{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #032D60;
+    border-radius: 10px;
+    width: 35rem;
+    height: 4rem;
+    margin-bottom: 1%;
+    margin-top: 5%;
+}
+.titulo-opcoes{
+    font-size: 30px;
+    color: #032D60;
+    font-family: "Righteous";
+}
+.titulo-opcoes:hover{
+    color: white
+}
+.imagens-clientes{
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+    margin-bottom: 4%;
+}
+.li-imagens{
+    display: flex;
+    justify-content: center;
+    font-family: "Righteous";
+    font-size: 20px;
+    color: #032D60;
+}
+.imagem-lista{
+    list-style: none;
+}
+.titulo-clientes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Righteous";
+    font-size: 23px;
+    color: #032D60;
+    margin-bottom: 3%;
+}
+}
+@media (min-width: 450px) and (max-width: 799px){
+
+}
+@media screen and (max-width: 449px){
+
+}

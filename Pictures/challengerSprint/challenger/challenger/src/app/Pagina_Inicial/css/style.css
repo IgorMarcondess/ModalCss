@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital,wght@0,400..700;1,400..700&family=Righteous&display=swap');
+
+@media (min-width: 800px) and (max-width: 1400px){
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.titulo-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font-family: "Righteous", sans-serif;
+}
+.divOne-paginaInicial{
+    display: flex;
+    padding: 30px;
+}
+.texto-paginaInicial{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+    padding: 40px;
+    font-size: 25px;
+    font-family: "Ibarra Real Nova", serif;
+}
+
+.imagem-div1-main{
+    width: 700px;
+    height: 400px;
+}
+.titulo2-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Righteous", sans-serif;
+}
+.texto2-paginaInicial{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    font-family: "Ibarra Real Nova", serif;
+    padding: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.secao-imagens{
+    display: flex;
+    justify-content: center;
+    margin: 3rem;
+}
+.teste{
+    width: 10.5rem;
+    height: 11.5rem;
+    background-color: #032D60;
+    border-radius: 20px;
+}
+.formatacao-imagem-paginaInicial{
+    width: 150px;
+}
+.layout-paginaInicial{
+    display: flex;
+    gap: 4rem;
+}
+.layout-imagem-paginaInicial{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.texto-imagem-paginaInicial{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Righteous", sans-serif;
+    color: white;
+    list-style: none;
+}
+.texto-imagem{
+    color: white;
+}
+.texto-imagem:visited{
+    color: white;
+}
+}
+@media (min-width: 450px) and (max-width: 799px){
+
+}
+@media screen and (max-width: 449px){
+
+}

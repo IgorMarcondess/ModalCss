@@ -1,0 +1,27 @@
+[
+        {
+            "id": 5,
+            "src": "/assets/Personagens_PI/codey.png",
+            "text": "CODEY",
+            "external": "https://www.youtube.com/"
+        },
+        {
+            "id": 6,
+            "src": "/assets/Personagens_PI/hootie.png",
+            "text": "HOOTIE",
+            "external": "https://www.youtube.com/"
+        },
+        {
+            "id": 7,
+            "src": "/assets/Personagens_PI/max.png",
+            "text": "MAX",
+            "external": "https://www.youtube.com/"
+        },
+        {
+            "id": 8,
+            "src": "/assets/Personagens_PI/ruth.png",
+            "text": "RUTH",
+            "external": "https://www.youtube.com/"
+        }
+    
+]

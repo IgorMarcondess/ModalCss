@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "src": "/assets/Personagens_PI/einstein.png",
+        "text": "EINSTEIN",
+        "external": "https://www.youtube.com/"
+    },
+    {
+        "id": 2,
+        "src": "/assets/Personagens_PI/astro.png",
+        "text": "ASTRO",
+        "external": "https://www.youtube.com/"
+    },
+    {
+        "id": 3,
+        "src": "/assets/Personagens_PI/appy.png",
+        "text": "APPY",
+        "external": "https://www.youtube.com/"
+    },
+    {
+        "id": 4,
+        "src": "/assets/Personagens_PI/cloudy.png",
+        "text": "CLOUDY",
+        "external": "https://www.youtube.com/"
+    }
+]
